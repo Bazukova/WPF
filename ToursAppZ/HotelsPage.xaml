@@ -9,7 +9,7 @@
       Title="HotelsPage">
 
     <Grid>
-        <Button Content="Тест" Background="#fac716" Click="Button1_Click" Margin="196,210,429,210"></Button>
-        <Button Content="OpenCV" Background="#fac" Click="Button2_Click" Margin="438,210,187,210"></Button>
+        <Button Content="Тест"  Click="Button1_Click" Margin="196,210,429,210"></Button>
+        <Button Content="OpenCV"  Click="Button2_Click" Margin="438,210,187,210"></Button>
     </Grid>
 </Page>
