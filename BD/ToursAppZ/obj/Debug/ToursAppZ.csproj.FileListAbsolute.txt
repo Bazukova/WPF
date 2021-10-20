@@ -72,3 +72,12 @@ C:\Users\303-0\source\repos\Журин\GitWPF\ToursAppZ\obj\Debug\ToursAppZ.cspr
 C:\Users\303-0\source\repos\Журин\GitWPF\ToursAppZ\obj\Debug\ToursAppZ.exe
 C:\Users\303-0\source\repos\Журин\GitWPF\ToursAppZ\obj\Debug\ToursAppZ.pdb
 >>>>>>> 85bc28a70c2710f3985dab4f70a5778e2e99ef38
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\BD\ToursAppZ\obj\Debug\ToursAppZ.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\BD\ToursAppZ\obj\Debug\AddEditPage.g.cs
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\BD\ToursAppZ\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\BD\ToursAppZ\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\BD\ToursAppZ\obj\Debug\ToursAppZ_Content.g.cs
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\BD\ToursAppZ\obj\Debug\ToursAppZ_MarkupCompile.cache
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\BD\ToursAppZ\obj\Debug\ToursAppZ_MarkupCompile.lref
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\BD\ToursAppZ\obj\Debug\ToursAppZ.exe
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\BD\ToursAppZ\obj\Debug\ToursAppZ.pdb

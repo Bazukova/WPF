@@ -36,7 +36,7 @@ namespace ToursAppZ
             StringBuilder errors = new StringBuilder();
             if (string.IsNullOrWhiteSpace(_currentHotel.Name))
                 errors.AppendLine("Укажите название отеля");
-            if (_currentHotel.CountOfStars > 1 || _currentHotel.CountOfStars < 5)
+            if (_currentHotel.CountOfStars < 1 || _currentHotel.CountOfStars > 5)
                 errors.AppendLine("Количество звезд от 1 до 5");
             if (_currentHotel.Country == null) ;
             errors.AppendLine("Выберите страну");

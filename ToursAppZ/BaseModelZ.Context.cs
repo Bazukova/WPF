@@ -15,20 +15,18 @@ namespace ToursAppZ
     
     public partial class TourBaseZEntities : DbContext
     {
-        private static TourBaseZEntities _context;
-
         public TourBaseZEntities()
             : base("name=TourBaseZEntities")
         {
         }
+        public static TourBaseZEntities context;
 
         public static TourBaseZEntities GetContext()
         {
-            if (_context == null)
-                _context = new TourBaseZEntities();
-            return _context;
+            if (context == null)
+                context = new TourBaseZEntities();
+            return context;
         }
-    
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             throw new UnintentionalCodeFirstException();
