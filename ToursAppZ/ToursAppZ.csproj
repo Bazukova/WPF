@@ -88,6 +88,9 @@
     <Compile Include="Tour.cs">
       <DependentUpon>BaseModelZ.tt</DependentUpon>
     </Compile>
+    <Compile Include="ToursPage.xaml.cs">
+      <DependentUpon>ToursPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Type.cs">
       <DependentUpon>BaseModelZ.tt</DependentUpon>
     </Compile>
@@ -127,6 +130,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="ToursPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Manager.cs" />
@@ -186,6 +193,7 @@
       <DependentUpon>BaseModelZ.edmx</DependentUpon>
       <LastGenOutput>BaseModelZ.cs</LastGenOutput>
     </Content>
+    <Resource Include="Resources\cruzak200.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />

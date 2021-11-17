@@ -38,7 +38,7 @@ namespace ToursAppZ
                 errors.AppendLine("Укажите название отеля");
             if (_currentHotel.CountOfStars < 1 || _currentHotel.CountOfStars > 5)
                 errors.AppendLine("Количество звезд от 1 до 5");
-            if (_currentHotel.Country == null) ;
+            if (_currentHotel.Country == null);
             errors.AppendLine("Выберите страну");
 
             if(errors.Length > 0)

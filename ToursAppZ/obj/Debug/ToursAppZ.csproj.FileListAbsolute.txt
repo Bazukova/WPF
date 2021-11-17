@@ -72,3 +72,5 @@ C:\Users\303-0\source\repos\Журин\GitWPF\ToursAppZ\obj\Debug\ToursAppZ.cspr
 C:\Users\303-0\source\repos\Журин\GitWPF\ToursAppZ\obj\Debug\ToursAppZ.exe
 C:\Users\303-0\source\repos\Журин\GitWPF\ToursAppZ\obj\Debug\ToursAppZ.pdb
 >>>>>>> 85bc28a70c2710f3985dab4f70a5778e2e99ef38
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\ToursAppZ\obj\Debug\ToursPage.g.cs
+C:\Users\Администратор\source\repos\GitWPF\GitWPF\ToursAppZ\obj\Debug\ToursPage.baml

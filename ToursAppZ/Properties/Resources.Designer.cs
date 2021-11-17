@@ -63,6 +63,16 @@ namespace ToursAppZ.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cruzak200 {
+            get {
+                object obj = ResourceManager.GetObject("cruzak200", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap OpenCV {
             get {
                 object obj = ResourceManager.GetObject("OpenCV", resourceCulture);
